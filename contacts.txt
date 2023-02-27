@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "c5657",
+      "name": "Michael",
+      "email": "michael@mail.com",
+      "address": "Michael street",
+      "gender": "Male",
+      "phone": {
+      "mobile": "63790563",
+      "home": "26713565",
+      "office": "25783564"
+      }
+    },
+    {
+      "id": "c4635",
+      "name": "Johnny",
+      "email": "johnny@mail.com",
+      "address": "Johnny street",
+      "gender": "Male",
+      "phone": {
+      "mobile": "69743982",
+      "home": "29874597",
+      "office": "23298439"
+      }
+    }
+  ]
+}
